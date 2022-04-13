@@ -1,6 +1,4 @@
 {
- "kind": "youtube#videoCategoryListResponse",
- "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/1v2mrzYSYG6onNLt2qTj13hkQZk\"",
  "items": [
   {
    "kind": "youtube#videoCategory",
